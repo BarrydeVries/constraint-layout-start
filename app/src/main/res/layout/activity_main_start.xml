@@ -11,6 +11,6 @@
         android:layout_width="244dp"
         android:layout_height="247dp"
         android:src="@drawable/singapore"
-        tools:layout_editor_absoluteX="38dp"
-        tools:layout_editor_absoluteY="73dp" />
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="190dp" />
 </android.support.constraint.ConstraintLayout>
